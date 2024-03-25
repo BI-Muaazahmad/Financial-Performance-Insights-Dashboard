@@ -41,7 +41,7 @@ Overall, the Comprehensive Financial Analysis Dashboard serves as a valuable too
 <br />
 
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNzg0Mzg5Y2YtNzRlMS00NTM3LWFmMDktZDE3MjdkZWE4YmY1IiwidCI6ImYyYTVjZjdhLTczOTQtNGI4ZC05OGZkLTdhZjYwNjI1ZmU4MyIsImMiOjl9"_blank">Link to PowerBI Report</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNzg0Mzg5Y2YtNzRlMS00NTM3LWFmMDktZDE3MjdkZWE4YmY1IiwidCI6ImYyYTVjZjdhLTczOTQtNGI4ZC05OGZkLTdhZjYwNjI1ZmU4MyIsImMiOjl9" target="_blank">Link to PowerBI Report</a>
 
 
 <br />
